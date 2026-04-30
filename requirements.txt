@@ -1,0 +1,14 @@
+langchain-core
+langchain-ollama
+langgraph
+langgraph-checkpoint
+langgraph-prebuilt
+langgraph-sdk
+langsmith
+
+ollama
+google-generativeai
+
+pydantic
+requests
+tqdm
